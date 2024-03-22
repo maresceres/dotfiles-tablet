@@ -186,11 +186,11 @@ window#waybar.hidden {
 
 #battery.charging {
     color: #ffffff;
-    background-color: #26A65B;
+    /*background-color: #26A65B;*/
 }
 
 #battery.warning:not(.charging) {
-    background-color: #ffbe61;
+    /*background-color: #ffbe61;*/
     color: black;
 }
 
