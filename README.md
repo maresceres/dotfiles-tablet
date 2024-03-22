@@ -40,12 +40,12 @@ Jetbrains mono nerd
   
 ## Symlinks
   
-ln -s ~/Documents/dotfiles-tablet/alacritty/ ~/.config/
-ln -s ~/Documents/dotfiles-tablet/dunst/ ~/.config/
-ln -s ~/Documents/dotfiles-tablet/hypr/ ~/.config/
-ln -s ~/Documents/dotfiles-tablet/waybar/ ~/.config/
-ln -s ~/Documents/dotfiles-tablet/wlogout/ ~/.config/
-ln -s ~/Documents/dotfiles-tablet/wofi/ ~/.config/
-ln -s ~/Documents/dotfiles-tablet/wall/ ~/Pictures/
+ln -s ~/Documents/dotfiles-tablet/alacritty/ ~/.config/  
+ln -s ~/Documents/dotfiles-tablet/dunst/ ~/.config/  
+ln -s ~/Documents/dotfiles-tablet/hypr/ ~/.config/  
+ln -s ~/Documents/dotfiles-tablet/waybar/ ~/.config/  
+ln -s ~/Documents/dotfiles-tablet/wlogout/ ~/.config/  
+ln -s ~/Documents/dotfiles-tablet/wofi/ ~/.config/  
+ln -s ~/Documents/dotfiles-tablet/wall/ ~/Pictures/  
 
   
